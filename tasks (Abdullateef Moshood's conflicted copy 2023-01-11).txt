@@ -1,0 +1,4 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Jan 2023, 22 Dec 2022, No
+mosh, Print documents, Print all project documents., 23 Jan 2023, 22 Dec 2022, No
+josh, Send emails, Send emails to all leads, 31 Feb 2023, 22 Dec 2022, No
+mosh, Print materials, Set up printer to print all conference materials, 20 Feb 2023, 22 Dec 2022, No
